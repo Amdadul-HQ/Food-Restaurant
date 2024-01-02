@@ -27,6 +27,7 @@ li{
     font-weight:500;
     position:relative;
     margin-right: 30px;
+    cursor: pointer;
 }
 .active::after{
     width: 100%;
